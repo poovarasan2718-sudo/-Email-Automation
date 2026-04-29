@@ -1,0 +1,1 @@
+The Email Automation System is a web-based application built using Python (Flask), HTML, CSS, and JavaScript that allows users to send emails automatically after a specified delay. It simplifies email sending by automating the process through a user-friendly interface.
